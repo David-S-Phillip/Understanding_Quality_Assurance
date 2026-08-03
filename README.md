@@ -88,3 +88,39 @@ This means that the cake's recipe must be documented and include details about e
 ***Process checklists and process reviews***
 Process checklists are among the commonest QA techniques. They help ensure that all the steps involved in the QA process have been adequately fulfilled. Now, these process checklists can either be based on paper or they can be digitalized. While paper-based methods can be a source of potential errors and inefficiencies, digital methods can allow a more scrutinized and clear approach to determine the processes that were adequately fulfilled during the QA
 The quality assurance methods discussed to this page entail the large amounts of data they generate. Whether this data comprises detailed specifications, standard operating procedures, benchmarking data, or control production, it must be readily accessible and requires rigorous organization and management.
+
+***Intranet and QA information Management***
+The intranet is a local communications network that uses World Wide Web to share information. Companies can use intranet within their QA processes to help them with collaboration, internal communication, and computing services. Some ways the intranet can benefit companies with the management of their large amount of QA data are listed as follows: 
+
+Intranet software products have a file explorer interface that can provide easy access to the QA information.
+These products have an in-built file and document storage function to help them with data management.
+Intranet data is stored in a cloud, ensuring its 24/7 accessibility.
+The content management system present tin an intranet software allows access only to the latest information related to QA.
+
+***QA in software testing***
+In software testing, Quality Assurance can be cited as a technique to guarantee the quality of software goods or services offered to clients by a business. Quality assurance aims to increase the efficiency and effectiveness of the software development process under the quality standards established for software products. The procedure implemented in QA in software testing is the well-known PDCA cycle, also known as the Deming Cycle.
+
+There are four phases in the PDCA cycle i.e.
+
+    Plan: The organization must plan and establish the objectives concerned with its objectives and determine the relevant processes to help it deliver a high-quality product.
+    Do: It refers to the development and testing of processes and making any minor changes along the way.
+    Check: Check refers to process monitoring, modification, and determining if it complies with the predetermined objectives.
+    Act: It means implementing those actions that allow achieving the improvements in the software development process.
+
+***The PDCA cycle***
+In software development and testing, these four steps are repeated to ensure that the organization evaluates and improves its processes regularly. The PDCA cycle in the QA process helps organizations ensure they are designing and implementing their products with the correct procedures.
+
+***QC in software engineering***
+In software engineering and development, the role of QC is to ensure the integrity and quality of software products. It looks at the quality of the end products and the results rather than the methods employed to produce them. The primary aim of QC in software engineering processes is to determine that the products comply with the requirements and specifications entailed by the clients. Thus, QC remains helpful in identifying a flaw and rectifying it before delivering it to the customer.   
+The role of QC cannot be limited to products and their quality only. Rather, it is also used to evaluate the skills of the people involved in the software development process and match their skills with their certifications and training. With such a stringent evaluation, QC ensures that the software product delivered to the customers is without defects or flaws.
+To prevent mixing up the concepts of QA and QC, it would be essential to remember that QA examines and changes the software development processes. In contrast, QC checks the integrity and quality of the finished products. 
+
+***QC vs QA in software engineering***
+
+|                                        **Activities in QC**                                         |                                                                               **Activities in QA**                                                                               | 
+|:---------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| Demonstration<br/>ProductTesting<br/>Inspection of the product<br/>Checkpoint review of the product | Quality audit<br/>Defining the product-manufacturing process<br/>Identification and selection of the appropaite tools<br/>Training accodrding to quality standards and processes |
+
+|                                              **Quality Control**                                              |                                                                    **Quality Assurance**                                                                    |
+|:-------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------:|
+ | It focuses on the product<br/>it is a reactive approach<br/>Quality control finds defects within the products | It focuses on the process leading to the creation of the product<br/>It is a proactive approach<br/>Quality assurance prevents defects withing the products |
