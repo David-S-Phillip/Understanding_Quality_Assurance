@@ -124,3 +124,201 @@ To prevent mixing up the concepts of QA and QC, it would be essential to remembe
 |                                              **Quality Control**                                              |                                                                    **Quality Assurance**                                                                    |
 |:-------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------:|
  | It focuses on the product<br/>it is a reactive approach<br/>Quality control finds defects within the products | It focuses on the process leading to the creation of the product<br/>It is a proactive approach<br/>Quality assurance prevents defects withing the products |
+
+
+**QA in software testing***
+Quality Assurance can be cited as a technique to guarantee the quality of software goods or services offered to clients by a business. Quality assurance aims to increase the efficiency and effectiveness of the software development process under the quality standards established for software products. The procedure implemented in QA in software testing is the well-known PDCA cycle, also known as the Deming Cycle. 
+
+There are four phases in the PDCA cycle i.e.
+
+    Plan: The organization must plan and establish the objectives concerned with its objectives and determine the relevant processes to help it deliver a high-quality product.
+    Do: It refers to the development and testing of processes and making any minor changes along the way.
+    Check: Check refers to process monitoring, modification, and determining if it complies with the predetermined objectives.
+    Act: It means implementing those actions that allow achieving the improvements in the software development process.
+
+***The PDCA cycle***
+In software development and testing, these four steps are repeated to ensure that the organization evaluates and improves its processes regularly. The PDCA cycle in the QA process helps organizations ensure they are designing and implementing their products with the correct procedures.
+
+***QC in software engineering***
+In software engineering and development, the role of QC is to ensure the integrity and quality of software products. It looks at the quality of the end products and the results rather than the methods employed to produce them. The primary aim of QC in software engineering processes is to determine that the products comply with the requirements and specifications entailed by the clients.
+The role of QC cannot be limited to products and their quality only. Rather, it is also used to evaluate the skills of the people involved in the software development process and match their skills with their certifications and training. With such a stringent evaluation, QC ensures that the software product delivered to the customers is without defects or flaws.
+
+***The five functions in QA***
+Technology transfer --> documenting a product design and data of its trial and evaluation. This documentation is also distributed, checked, and approved
+Validation --> is the master plan of the entire system. In this process, the criteria for valdating a product and process is defined. The resource planning to execute a validation is also done
+Documentation --> controls distributing and archiving of the documents. Any modification within the documentation is done by a proper change control procedure
+Quality assurance of the products
+Quality improvement of the plans
+
+***Certifications in quality assurance***
+ISO 9001 is a popular QA standard that was devised in 1987. It allows organizations to ensure the quality of their products for their customers and their products. Any organization willing to get an ISO 9001 license is usually audited according to its functions, products, services, and processes. The primary aim of the ISO 9001 standard is to review and verify if the organization...
+
+Follows the designated process.
+If its existing processes require any modification.
+
+ISO 9001 helps organizations in various ways, such as:
+ISO 9001 Quality Management certification logo featuring a globe icon.
+
+    Increasing their profitability.
+    Improving their local and international trade.
+    Waste reduction.
+    Enhancing employees' productivity.
+    Ensuring customer satisfaction.
+
+CMMI (Capability Maturity Model Integrated) Model
+This approach is designed for process improvement in software processes. The basis of CMMI is the process maturity framework and aids the software industry in business processes. There are five levels in CMMI based on the maturity of QA mechanisms.  
+CMMI Level 1 : This is the initial stage. Here, the quality environment is unstable, and processes are neither followed nor documented.
+CMMI Level 2: This is the repeatable stage. Here, some of the repeatable processes are followed. At this level, it is ensured that the processes are followed at the project level.
+CMMI Level 3: This stage comprises defined and documented processes at the organizational level. These defined and documented processes can be improved to some degree.
+CMMI Level 4: This is the managed level where process metrics are used for effective controls of the processes being followed.
+CMMI Level 5: This is the optimizing level that emphasizes continuous improvement with innovation and learning.
+
+Certifications in Quality Assurance
+The Test Maturity Model (TMM)
+The TMM analyzes the maturity of processes within a Testing Environment. Like CMMI, this model also has five levels. These levels are as follows:
+Level 1 - The Initial Level: This level does not follow any quality standard for testing processes. Instead, only ad-hoc methods are used here.
+Level 2 - The Definition Level: This level pertains to defining processes, preparing strategies, plans, and test cases.
+Level 3 - The Integration Level: In this level, testing is done across the Software Development Lifecycle (SDLC). This is an integration of testing with the development activities.
+Level 4 - The Management and Measurement Level: This level reviews the requirements and designs along with setting the criteria for each testing level.
+Level 5 - The optimization Level: This testing level involves various preventive techniques and uses tool support for improvement of the testing processes and standards.
+
+***Questions***
+The procedure implemented in QA in software testing is the SDCA cycle 
+ - false 
+
+in the context of software testing, QC examines and modifies the software development process
+
+- False
+
+Which of these activities are part of QC ? 
+ 
+
+- inspection of the product , not product testing, defining the product-manufacturing process or quality audit 
+
+In software development, Quality control gets replaced by:
+
+
+- software testing 
+
+what are the features of software testing ? 
+
+- the three features of software testing are: 1) It is product-focused 2) It is a reactive technique 3) It is only applied to the product being tested by the organization 
+
+
+How many functions are there in QA ? 
+There are five functions in QA 
+- Technology transfer 
+- Validation 
+- Documentation 
+- Quality assurance of the products
+- Quality improvement of the plans 
+
+The CMMI Level 2 is the what stage ?
+
+- Repeatable stage
+
+Match the levels of certifications in QA with their description.
+
+Initial level - Does not follow any quality standard for testing processes 
+Definition level - Defining processes, strategies and planning 
+Integration level - Testing is done across the SDLC 
+Management and measurement level - Reviews the requirements and designs 
+Optimization level - involves the preventive techniques
+
+The focus of quality control is the ? 
+
+While talking about the five functions of QA, what refers to the master plan of the entire system 
+
+- While talking about the five functions of QA, validation refers to the master plan of the entire system. 
+
+In CMMI, level 4 refers to the level where some repeatable processes are followed. 
+
+- false 
+
+***QA in manufacturing***
+With the help of QA professionals, manufacturers can ensure to monitor and fix these problems quickly and efficiently. Consider an example of a famous clothing brand whose customers have complained that the color of their clothes fades easily. In this scenario, the brand's QA professionals will look into the matter and determine the root cause of the problem, which can be the chemical composition of the color
+
+***QA for reducing human error***
+QA can help reduce human error in the services and substantially enhance the products' quality. Consider the example of a banking application. Its interface might be designed such that the users enter excessive amounts while performing online transactions. The QA team can identify this problem through customer feedback and inform the developers to make the necessary changes within the app's interface.
+
+***Where will industries require QA?***
+* System improvements
+* Process Modification 
+* Design analysis
+* Food Safety 
+* Security Modifications
+
+***Industrial Implementation of the QA Processes***
+The implementation of QA in general industries and then in software development.
+
+***How QA applies to general industrial Practices?***
+The majority of quality control programs are created with customer satisfaction in mind. In this regard, the organization needs procedures, methods, organization, and resources to maintain its focus on the activities it implements to achieve its organizational objectives and goals. 
+
+***QA in general Industrial practices***
+Step 1 - identifying the organizational goals 
+Step 2 - The organization must identify the factors that make its QA system successful. 
+Step 3 - The organization must identify the important customers that make its QA system workable.
+Step 4 - Gaining customer Feedback
+Step 5 - Continuous improvement 
+step 6 - Choosing the appropriate quality management software 
+step 7 - Measuring the results 
+
+***QA in software development***
+Step 1 - Requirement analysis 
+Step 2 - Testing 
+Step 3 - Designing Tests 
+Step 4 - Performing Tests and Reporting the relevant findings 
+Step 5 - Rerunning the tests 
+Step 6 - Releasing the Test 
+
+***Questions***
+The majority of quality control programs are created with ---- satisfaction in mind 
+* Customer 
+
+--- tests are a series of tests related to computer programming and software testing, and they confirm the stability of each software product designed.
+* Smoke tests are a series of tests related to computer programming and software testing, and they confirm the stability of each software product designed.
+
+
+Arrange the steps for a QA strategy in general industrial practices.
+1. identifying the organizational goals 
+2. identifying the success factors 
+3. Identification of external and internal customers 
+4. Gaining the customer feedback 
+5. Continuous improvement 
+6. Choosing the appropriate quality management software 
+
+Arrange the steps of QA in software development 
+1. Requirements analysis 
+2. Testing 
+3. Designing tests 
+4. Performing the tests 
+5. Rerunning the tests 
+6. Release the test 
+
+QA in Software Development
+
+    Step 1 - Requirement Analysis: In this software development phase, QA professionals work alongside developers.
+    Step 2 - Testing:  In this step, they use this information to determine the software testing, testing scope, budgets, and schedules.
+    Step 3 - Designing Tests: Here, the QA professionals create checklists for measuring the test outcomes against each requirement.
+    Step 4 - Performing Tests and Reporting the Relevant Findings: In this stage, software developers perform tests on specific areas of the software product, QA professionals test the Application Programming Interface (API) and User Interface (UI). QA professionals also conduct manual tests in this phase.
+    Step 5 - Rerunning the Tests: In this stage, the IT and QA teams repeat tests until all identified issues are resolved.
+    Step 6 - Releasing the Test: Developers list the implemented features and the bugs they have identified and resolved. Then, the QA professionals pass on these lists to the QA professionals, who analyze and investigate the changes' effect on the product's functionalities
+
+
+
+At what stage are the smoke tests performed on the software product?
+The smoke tests are performed at the Stage 6 (Releasing the test) of QA in software development. 
+
+Customer feeback would only be useful for the organization if it is _____.
+* continuous 
+
+***Assessment questions***
+_____ testing refers to deliberately putting a finished product under increased vibration, humidity, and temperature conditions.
+In software development, Quality Control gets replaced by _____.
+How many essential components of a QA strategy are there?
+While talking about the five functions of QA, _____ refers to the master plan of the entire system.
+Which of these terms resonates the best with Quality Control?
+Match the levels of certifications in QA with their description.
+_____ tests are a series of tests related to computer programming and software testing, and they confirm the stability of each software product designed.
+In CMMI, level 4 refers to the level where some repeatable processes are followed.
+Arrange the steps for a QA strategy in general industrial practices.
