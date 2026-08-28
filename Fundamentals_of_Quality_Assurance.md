@@ -148,3 +148,141 @@ The fundamental quality assurance principle is to keep the customer in mind, and
 * Establishing a clear vision and quality policies and objectives by leaders helps communicate them better with stakeholders. Therefore, success depends mainly on:
     * Creating an organisational culture that prioritises transparency and excellence with continual progress towards improvement and
     * Leadership providing support and resources is necessary to establish a QA culture within an organisation.
+
+## The members participation
+The involvement of all members of an organisation is essential for the successful implementation of QA practises, as it is the people who spur movements towards improving quality. 
+To ensure employee satisfaction while:
+* maximising productivity
+* a firm must promote worker autonomy
+* provide professional development prospects
+* emphasise good collaboration.
+
+## Remarkable excellence 
+A team of involved and knowledgeable workers can positively impact QA performance, leading to a reputation for delivering outstanding quality. 
+Outstanding quality contains the following steps:
+
+* QA's philosophy of quality management centres around a process-oriented perspective. Organisations must have well-defined, standardised, and efficient processes for higher effectiveness.
+* Implementing controls that help understand how different techniques can be interconnected while keeping an eye on their overall performance represents a fundamental component of any practical process approach.
+* Enhancing quality levels while reducing mistakes and boosting overall efficiency is possible for organisations optimising processes across the complete value chain.
+
+## QA demands
+QA demands a deliberate approach to management that encompasses the following things:
+
+* careful planning
+* implementation
+* monitoring
+* constant improvement of processes
+
+## Strengthening areas
+Identifying areas for improvement through a systematic approach helps organisations make data driven decision and take adequate corrective measures.
+Adequate corrective measures:
+* Consistent improvement serves as a foundation for quality assurance. Sustained improvement of products and services, along with their associated processes and QA practises, should be an organisation's top priority.
+* An organisation should regularly conduct audits to improve operations while analysing data outputs and measuring performance.
+* Achieving continued success depends on setting measurable targets for progress and implementing appropriate adjustments with careful evaluation.
+* Learning from mistakes and making adjustments is necessary for achieving high levels of quality.
+
+## QA for making decisions
+QA believes in relying on factual information for decision-making. The ability of organisations to establish data collection mechanisms that can be analysed through relevant metrics using statistical techniques leads to informed decision-making.
+For making decisions:
+* Organisations must adopt a fact-based approach that helps them proactively tackle problems or enhance their procedures to reduce the subjective nature of a decision and minimise its risk factor.
+* We recognise that quality assurance is a shared responsibility that includes not only ourselves but also our valuable suppliers and partners.
+* To foster harmonious business relations between organisations and their suppliers, it is essential to cultivate a climate of mutual benefit built on trust-based collaborative efforts geared towards achieving high-quality standards
+* QA processes should encompass supplier evaluation and observation to satisfy all quality requirements. Having effective communication channels with suppliers can enhance your product's final quality.
+
+## Practise Question
+***What is the correct order of the following steps to deliver outstanding quality?***
+1. Develop a process-oriented quality management
+2. Create well-defined, standardised, and efficient organisational procedures
+3.  Set controls to understand how various techniques might be coupled and monitor their success and effectiveness
+4. Improve quality by optimising operations throughout the value chain to reduce errors and increase efficiency.
+
+## Contribute to continuous organisational improvement 
+Organisations can fortify their foundation by incorporating these fundamental principles into their QA practices. Guided by the principles of customer centricity and strong leadership, backed up by thorough data analysis for decision-making purposes, this can lead to continuous improvements within an organisation.
+Moreover, implementing these principles is essential to creating a culture where an expectation of excellent quality is the norm and drives consistent innovation, resulting in sustained organisational success.
+
+## Systems for quality management (QMS)
+Quality Management Systems (QMS) comprise processes with resources to ensure unsurpassed performance in meeting specific quality parameters. Using the QMS framework, quality management practices are put in place to improve product production processes. 
+The critical components of a QMS include:
+* Our philosophy of prioritising excellence is captured perfectly by the language used in our quality policy statement, and the overall quality targets are laid out in this document, along with a roadmap for the QMS.
+* The guiding principle for actions and decisions is sharing and ensuring everyone understands the quality policy throughout the organisation.
+* Quality Objectives are specific targets that help achieve the organisation's quality policy. The policy aims to meet customers' needs while adhering to rules and regulations and achieving our corporate targets.
+* Quality objectives should always stay true to being attainable over time; therefore, they must be reviewed occasionally for their effectiveness.
+* Documentation forms and policies are essential to any efficient QMS activity within the organisation. The correct documentation of processes provides: Clarity, consistency, and traceability.
+
+## QMS benefits 
+* QMS advocates using a process-centric methodology for managing quality, as processes are connected activities that convert inputs into desired outcomes.
+* QMS aims to ensure the efficiency and effectiveness of standardised processes through their identification and documentation.
+* Identifying process owners in managing a system is crucial, along with a detailed definition of input and output and distinct measurable actions demonstrating high-performance levels.
+* Our QMS integrates a risk-based thought process to recognise and handle any possible dangers that could influence the excellence of our products or procedures.
+* Organisations need to conduct comprehensive risk assessments to assess the potential severity of identified threats beforehand, which leads them to adopt suitable mitigation strategies.
+* When organisations proactively address risks, they can avoid quality problems and increase customer satisfaction.
+* Having competent personnel is a top priority for QMS regarding training and competence. Organisations can offer applicable development programmes by identifying the needed skills and competencies for roles in QMSs.
+* Consistent and effective implementation of the QMS requires competent staff who can meet quality requirements.
+
+## Performance evaluation of processes and services 
+To evaluate its performance in processes and services, QMS depends on the following: monitoring and measurement.
+* Establishing key performance indicators (KPIs) within organisations and gathering pertinent data is necessary for evaluating and supervising quality measures. Analysing trends and variations in this data can lead to insightful observations.
+* Procedures within QMS allow for the recognition and resolution of non-conforming items or quality-related issues. However, corrective actions deal with current problems, whereas preventive measures work towards avoiding future problems. Analysing core issues and implementing practical solutions can lead to better-quality performance.
+* Management regularly assesses the QMS' effectiveness. In contrast, top management assesses the efficiency of QMS by evaluating quality objectives and customer feedback to make decisions for its betterment. Through regular reviews of management practices, we can guarantee alignment between the QMS and company goals.
+
+## Adopting a quality management system 
+* Creating an environment for constant progress is one of the core values of QMS. Organisations must encourage their employees to identify opportunities that would lead to improvement and bring up innovative solutions that can help enhance existing quality practices.
+* Targets need to be set for improvements to assess the effectiveness of changes over time.
+* Implementing a QMS mandates staff involvement, strong support from top leadership, and systematic handling of all facets related to quality control.
+* Moreover, the ability to streamline processes to maintain consistent quality and meet customer demands while fulfilling regulatory obligations enables businesses to enhance their overall success.
+* Achieving continued success in the marketplace and gaining an advantage over competitors requires a robustly implemented QMS as its foundation.
+
+## The function of ISO 9001 in quality control 
+* A globally accepted norm known as ISO 9001 outlines the standards for establishing a Quality Management System (QMS).
+* Organisations can significantly improve their quality management practises by adhering to the ISO 9001 framework, which is integral to Quality Assurance.
+* Assurance.
+  Following ISO 9001's guidelines allows organisations to create an effective and efficient QMS through a process-focused approach. 
+The foundation of QA lies in its fundamental principles, such as:
+* customer focus
+* leadership
+* people involvement 
+* process approach 
+* systematic management 
+* continual improvement 
+* factual decision-making 
+
+## The value of ISO 9001 
+***Establishing a framework***
+* Establishing a framework for creating QMS is more straightforward using the structure set out in ISO 9001.
+* The stipulated requirements outline the regulations that must be followed when documenting procedures accurately, along with effective process management protocols and stringent monitoring measures.
+* By meeting these requirements, organisations can build a solid foundation for their QA practices. The main point of ISO 9001 is to meet customers' expectations by emphasising a focus on them.
+
+***Customer requirements***
+* Customer requirements must be met consistently by organisations that understand the importance of identifying customer needs and checking on their level of satisfaction
+* Adapting their processes and practises to match customer expectations improves satisfaction and builds longer-lasting relationships.
+
+***Consistency and standardisation***
+* ISO 9001 aims for consistency and standardisation in quality management practices. Organisations must document processes, define the related procedures, and establish internal control measures to achieve outputs consistently.
+* Enhancing quality while reducing variation is the goal of organisational standardisation across all its product offerings.
+
+***Constant growth***
+* The focus on constant growth is encouraged in organisations through compliance with ISO 9001; by monitoring their processes closely and analysing the resultant data, organisations can achieve greater operational efficiency.
+* A reliable, continual improvement system enables organisations to enhance their QA practices by identifying areas for optimisation that lead to innovation.
+
+***Supply management***
+* ISO 9001 gives importance to managing suppliers, as the ability of a supplier to meet quality requirements determines their selection by organisations
+*  The organisation ensures that suppliers contribute to the overall quality of the final product or service through alignment with their quality objectives.
+
+***Risk management***
+* ISO 9001 emphasises the importance of incorporating risk-based thinking into its quality assurance practises, as organisations need to recognise and mitigate any potential hazards that may affect the calibre of their goods or services.
+* Organisations can manage risks proactively by performing risk assessments regularly, minimising their impact, and averting potential quality problems.
+
+## Conducting routine QMS audits 
+Management must conduct regular QMS reviews according to ISO 9001 standards. Top management uses these review sessions to evaluate QMS's performance against its quality objectives and adjust based on customer feedback.
+* Management review meetings are held periodically to ensure QMS alignment with organisational strategic goals.
+* ISO 9001 certification manifests an organisation's commitment to quality and conformity with globally acknowledged norms. By attaining ISO 9001 certification, the organisation's credibility is heightened as it establishes trust with stakeholders and provides openings for new business ventures.
+* Adhering to ISO 9001's extensive collection of quality regulations and standards aids in meeting regulatory requirements.
+* A significant aspect of Quality Assurance is implementing effective quality management practices that can bring numerous benefits to an organisation. ISO 9001 provides a detailed framework for this purpose. People's involvement in: risk-based thinking, emphasising customer focus and continuous improvement, and ensures meeting customer expectations.
+
+ISO 9001 promotes the standardisation and documentation of processes. Acquiring ISO 9001 certification improves an organisation's standing, indicating they are committed to providing top-notch goods and services.
+
+## Question 
+***ISO__ aims for consistency and standardisation in quality management practices.***
+* 9001
+
+## Defining P.D.C.A. (Plan-Do-Check-Act)
