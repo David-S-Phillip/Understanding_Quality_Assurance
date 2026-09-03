@@ -346,4 +346,164 @@ These tools enable organisations to optimise their QA processes to identify area
 
 ## Utilising Quality assurance tools 
 widely used quality assurance tools:
-* 
+* Flowcharts are diagrams that present processes or workflows visually, and by providing visual representations of inputs and outputs coupled with crucial decision points, graphical overviews are an excellent way to understand how processes are structured. The efficiency of an organisation's strategy can be improved by identifying bottlenecks or redundancies using flowcharts, and their application supports the standardisation of processes and sustainable consistency.
+* Using checklists can ensure that specific assignments or needs have been satisfied. Verifying that every crucial step has been completed minimises the chance of errors or omissions. It is a part of the quality control methodology that ensures all necessary aspects are considered in inspections and audits.
+
+## Diagrams and charts
+***Diagrams***
+* Analysing Quality Issues with Fishbone Diagrams (Cause-and-Effect Diagrams): Fishbone or cause-and-effect diagrams can be a powerful tool for analysing and identifying the root causes of various quality-related problems. 
+* The effect or problem is the head of this diagram, which takes on a fishbone shape while other parameters branch out like bones.
+* This software makes exploring possible contributing factors from distinct aspects like processes or tools more manageable, encouraging successful resolution.
+* Scatter diagrams aid us in studying the connection between two variables by plotting data points on a graph with one variable shown on the x-axis and another displayed across its y-component. Through the use of scatter diagrams, we can detect any correlation or cause-and-effect relationships that could exist between variables.
+* By analysing scatter plots carefully, organisations can obtain insights into the factors that drive results and utilise them to make informed decisions for process improvement.
+
+***Charts***
+* Pareto charts: You can focus on high-frequency or impactful issues using Pareto charts. Their offering includes visual representations of data via sorted bar charts displayed in descending order. Additionally, using Pareto charts to identify the main contributing factors to an organisation's issues prioritises the essential areas requiring attention.
+* Monitoring process performance over time is accomplished using statistical tools called control charts. Plotting data points against predetermined control limits allows for detecting variations or trends. We can identify how much our processes deviate by visualising process stability and checking for acceptable limits on variation through control charts.
+* Organisations must monitor their processes through control charts to identify anomalies that may impact their performance and maintain stable system performance.
+
+***Histograms***
+* The graphical representation of data distribution is done using histograms, which aim to visualise the frequency and occurrence of data values in pre-defined intervals or bins.
+* Organisations use histograms better to understand their data's dispersion and central tendency; making data-driven decisions becomes more accessible when using these tools to analyse process outputs and identify potential quality issues.
+
+***SPC***
+* The use of statistical methods in the monitoring and controlling of manufacturing processes is referred to as Statistical Process Control (SPC), and by employing SPC tools such as control charts and process capability analysis to analyse strategies in a structured manner,
+* Organisations can gain insight into their stability, enabling them to make data-based choices. Organisations that use SPC techniques for their proactive approach to controlling quality can prevent negative impacts on critical KPIs tied to products or services.
+
+## Root cause analysis(RCA)
+* Root Cause Analysis (RCA) involves systematically identifying and addressing the fundamental causes of problems or quality issues. Utilising techniques, including Fault Tree Analysis or the 5 Whys, is crucial for completing this job.
+* RCA tools enable organisations to identify the root causes of issues and take appropriate corrective and preventive measures.
+* Evaluating processes or procedures against the best performers in the industry is what benchmarking entails. Benchmarking enables businesses to gauge how well they are performing compared to other firms by identifying best practices and areas for improvement, and it encourages the development of a culture focused on ongoing growth by promoting continuous improvement through innovation.
+* By following a structured approach with the help of these tools, one can efficiently collect relevant data, leading to better decision-making and continuous improvements. These tools enable organisations to drive continuous improvement in quality by enhancing their QA processes and identifying areas for development.
+
+## Use of statistical process control (SPC)
+* To monitor and control processes within Quality assurance (QA), the tool generally used is Statistical Process Control (SPC), and the assessment of process performance is made using statistical techniques that help detect variations and support making data-driven decisions towards quality improvement.
+* SPC is a proven method for maintaining the consistency and predictability of a product, service, or process in Quality Assurance processes.
+
+## Statistical process control benefit
+Significant components and gain of utilising statistical process control:
+* With the help of SPC, it is possible to monitor processes in real time, and stability check-ups on methods are carried out through analytical data collection.
+* A widely used SPC tool in the industry for visualising process performance over time is control charts. Identifying variations in trends or unusual patterns affecting quality is possible for organisations plotting data points against control limits.
+* Variations in processes can be pinpointed through the use of SPC, whether they result from inherent common causes within the process or unusual assignable special causes.
+
+## Adopt an organised methodology 
+* Distinguishing between common and notable causes of variance becomes easier when you adopt an organised methodology like SPC. Understanding the difference between expected deviations and those implying quality problems is essential for assessing this matter.
+  We can determine if the process is running smoothly using SPC analysis. One way to assess the predictability and stability of a function is by implementing control charts. When parts remain steady, organisations can direct their efforts towards sustaining performance levels aligned with pre-defined parameters. However, signs of instability or out-of-control signals seen on a control graph signify significant variability in the process, which can impact quality.
+  Organisations know how to restore process stability and often take corrective actions when faced with similar situations. Early detection of quality issues and deviations from desired specifications can be achieved with SPC Monitoring with control charts, which helps organisations recognise when their processes are approaching or going beyond their limits.
+  Providing timely interventions and preventive actions makes this early warning system essential for avoiding significant deviations from quality requirements in products or services. The early identification of issues is vital to reducing non-conforming output and preserving resources.
+
+* Organisations know how to restore process stability and often take corrective actions when faced with similar situations. Early detection of quality issues and deviations from desired specifications can be achieved with SPC Monitoring with control charts, which helps organisations recognise when their processes are approaching or going beyond their limits.
+  Providing timely interventions and preventive actions makes this early warning system essential for avoiding significant deviations from quality requirements in products or services. The early identification of issues is vital to reducing non-conforming output and preserving resources.
+
+## Utilising SPC Tools for analytical purposes
+* Control charts and other SPC tools help companies assess customer satisfaction.
+* Utilising this information allows for informed decision-making by organisations regarding adjusting strategies to improve overall quality; it also helps determine the need for additional resources and training.
+* To launch successful process improvement initiatives, you need to have a foundation like SPC, and process optimisation opportunities can be identified by analysing data trends and patterns using control charts.
+* Using SPC to identify sources of variation helps organisations better prioritise their improvement initiatives.
+* Such information lets businesses target problem areas and enhance process performance.
+* Continuous development in QA is consistent with the principles supported by SPC, and cyclical analysis of data and insights fosters the ability to adjust processes through this approach.
+* By utilising an iterative approach with SPC, organisations can make changes that lead to higher levels of quality and performance while also monitoring the impact.
+* SPC's contribution to customer satisfaction stems from ensuring consistent product or service quality, monitoring process performance, and controlling variations to enable
+
+## Dependable quality 
+Predictable quality is critical for bolstering customer trust since it enhances repeat business success metrics, improving their overall level of contentment and increasing their brand loyalty and your company's competitiveness among peers.
+* SPC assists organisations in meeting regulatory requirements and staying compliant with industry standards.
+* Additionally, using SPC techniques enables organisations to exhibit process control and predictability, ultimately simplifying compliance with quality regulations and standards.
+* Whether it's audits or inspections requiring compliance demonstration, SPC provides the ideal framework by documenting and analysing data.
+
+## Questions 
+___ monitors and controls quality assurance (QA) prcesses and evaluates process performance to discover deviation and enable data driven quality improvement alternatives
+* "Statistical Process Control" or "SPC." 
+
+## Assuring the quality of goods and services
+The Root Cause Analysis techniques, part of Quality Assurance (QA), are crucial to ensure high-quality products and services; these methods can pinpoint the root cause behind any problem or defect. RCA techniques enable organisations to identify the underlying reasons 
+
+## Frequently employed RCA methods
+* They repeatedly ask why using the 5 Whys aids in uncovering the fundamental reasons behind a problem and investigating every 'why' after stating a problem reveals its root cause. Suppose organisations continue this questioning process for at least five iterations or more. In that case, they can delve deeper into identifying causes and understanding the connections between different factors.  Effectively addressing systemic issues is made possible by applying the 5 Whys methodology.
+* Using the Fishbone or Ishikawa Diagram has proven effective visually representing potential contributing factors to a problem. With its bone-like branches stretching out from the problem statement at the head to show potential causes for an issue, the Fishbone Diagram aids teams in systematically thinking through possibilities, such as
+  * Fault Tree Analysis aims to identify every imaginable combination of failures that might result in a specific problem or event. Graphics indicate causal relationships among events. The FTA approach helps us identify significant conditions or occurrences that can cause problems. It provides an organised system for analysing the fundamental reasons behind intricate matters.
+  * Failure Mode and Effects Analysis (FMEA) helps identify potential defects that can harm the process or product. Evaluating possible failure modes thoroughly by examining all underlying causes to determine their likelihood of occurrence while also considering detectability levels is vital to this systematic approach.
+
+## Effectivey Manage Potential Risks
+To prioritise and address potential risks effectively, organisations use FMEA, which assigns a risk priority number (RPN) to each failure mode. This measure assists organisations in taking preemptive measures to avoid risk and ensure success.
+
+* Use Pareto Analysis to rank problem contributors. The statistic shows that a small percentage (20%) causes most problems (80%).
+* Gathering information about the frequency or occurrence of potential root causes and organising it descendingly is what makes up Pareto Analysis.
+* Significant gains in quality and efficiency can be made by prioritising efforts to address the most critical underlying issues.
+* Exploring relationships between two variables through graphical means is possible with scatter diagrams.  They specialise in discovering potential correlations or causal relationships among the contributors to a problem.
+* With graphs and plotted data points, companies may discover whether changes in one variable are connected with changes in another. Understanding the connection between variables and guiding future enquiries with scatter plots is beneficial.
+* To identify the reasons behind an issue, we can use different analytical techniques, like: statistical analysis and regression analysis.
+
+## The Root Cause Analysis 
+A systematic way to visually map out the sequence of events causing a problem is through Root Cause Mapping, and systematically analysing contributing factors along with their interconnectedness and tracing back through event sequences is how teams utilise this tool.
+With Root Cause Mapping at your disposal, you can better understand the issue and identify necessary corrective actions for its primary root causes. Suppose you want to solve problems with a disciplined approach within the framework of Six Sigma. In that case, using the DMAIC methodology is your best bet.
+
+DMAIC five phases:
+* Defining problems clearly
+* Measure their impact thoroughly
+* Analyse data collected from various sources for potential solutions or improvements
+* Implement changes that improve past performance levels while ensuring success through good controls
+* Integrating multiple RCA methodologies with other quality tools makes it possible to determine root causes accurately while developing appropriate resolutions.
+
+## Practice question 
+***Which of the following alterantives is an analytical technique employed to identify potential risks?***
+* Statistical analysis
+
+## Risk management and FMEA
+* Risk Management and Failure Mode And Effect Analysis are integral elements in Quality Assurance implementations since they allow organisations to uncover potential pitfalls in the design stage.
+* Organisations can proactively address risks by utilising these techniques, which provide structured approaches to assess potential failures and their causes and effects, resulting in enhanced quality and reliability.
+
+## Risk Management 
+Risk management consists of a systematic approach to identifying, evaluating, and addressing potential risks to reduce their impact. This can help prevent issues from arising. These key milestones are part of the process:
+* Analysing an organisation's processes, systems, and external factors helps identify potential risks, such as regulatory requirements and market changes. Internal characteristics, such as equipment failure and human error, also fall into the category of potential risks.
+* Assessment of a risk's potential impact is vital for organisations to determine its severity and likelihood, and this evaluative approach assists in efficiently assigning resources towards risk mitigation.
+* Developing and executing risk mitigation strategies helps minimise the likelihood or impact of acknowledged risks.
+
+We have various options to manage this situation, including adjusting process steps and implementing new safety features. Furthermore, we can arrange additional training for staff members while focusing on enhancing our documentation procedures and strengthening our communication.
+
+## Failure Mode and Effects analysis (FMEA)
+With its structured methodology for identifying and evaluating potential failures in processes or products and assessing their impact on desired outcomes, the FMEA is an invaluable quality assurance tool. FMEA entails executing the following pivotal measures:
+
+***Identification and processing***
+* Identifying all potential failure modes linked to a process, product, or service is the primary step in executing an effective FMEA.
+* Process steps or components that do not perform their planned functions are called failing modes.
+* We evaluate every identified failure mode through a rigorous analysis process to determine their causes and severity; assessing the impact on critical parameters such as customer satisfaction is crucial when evaluating the severity of a failure mode.
+
+***Ranking***
+* Failure mode ranking considers severity first before considering occurrences or detection efforts.
+* The event describes how likely a failure mode will happen, while detectability is all about noticing and preventing its impact on users.
+* Multiplying the severity score of each failure mode with their respective occurrence and detectability scores yields their separate Risk Priority Numbers (RPNs), which is a valuable tool in aiding the prioritisation of failure modes for effective mitigations.
+* High-risk failure modes, which have a higher likelihood of occurring and causing severe consequences, receive excess attention and resources for prevention or control. Once an organisation identifies high-risk failure modes, they develop and implement mitigation plans to minimise the probability or impact of failure.
+  Strategies
+
+## Implementing Risk Management
+Together, the Failure Mode and Effects Analysis (FMEA) techniques allow organisations to:
+* Identifying potential hazards and risks preemptively can protect critical factors such as product quality and safety.
+* Assess the severity, likelihood, and impact of possible failures.
+* Prioritise risks based on their potential consequences.
+* Develop and implement appropriate risk mitigation strategies. 
+* Reviewing and monitoring your risk prevention plans regularly helps ensure their efficacy.
+* Improve overall quality, reliability, and customer satisfaction.
+
+## Practise question
+***Quality Assurance implementations need risk management and ___ to identify design flaws.***
+* Failure Mode And Effect Analysis
+
+## Module 2 --> Practical Application of Quality Management 
+## How Software quality assurance (S.Q.A) works
+In order to ensure the production of top-notch software products throughout the software development life cycle, it is crucial to include Software Quality Assurance (SQA) as a necessary step. Through implementing sound SQA processes, organisations can minimise threats to operations while enhancing the customer experience, thereby protecting brand reputation. 
+
+## Defining software quality assurance
+Employing a set of systematic activities and processes for evaluating the software development process is what SQA entails. It verifies that:
+*  Software products meet established quality standards and adhere to predetermined requirements while being reliable in designated environments.
+* To maintain a high-quality software development process, it is necessary to use multiple approaches, including various practices and tools that help recognise risks and detect defects while improving overall quality.
+* The main aim of SQA is to deliver high-quality software that meets all customer requirements while being efficient and highly maintainable.
+
+## Mission and goals of S.Q.A
+Enhancing software product quality and development processes is why Software Quality Assurance exists.
+SQA works towards stopping the emergence of defects and problems beforehand rather than solely depending on tests after development. To achieve its objectives:
+* The organisation must guarantee adherence to standards and regulations while verifying compliance.
+* In addition, process improvements should be promoted along with minimising risks and achieving customer satisfaction.
+* SQA adoption by organisations can yield cost savings by identifying problems early on, reducing rework expenses and delivering higher-quality software products faster.
+
+## Advantages of S.Q.A
